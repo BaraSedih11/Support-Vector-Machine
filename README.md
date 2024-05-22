@@ -19,7 +19,7 @@ Support Vector Machines (SVM) is a powerful algorithm for classification which a
 ## Contents
 
 - `SVM.ipynb`: Jupyter Notebook containing the implementation of SVM's using Python.
-- `data.csv.csv`: Sample dataset used in the notebook for demonstration purposes.
+- `data.csv`: Sample dataset used in the notebook for demonstration purposes.
 - `README.md`: This file providing an overview of the repository.
 
 ## Requirements
